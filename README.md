@@ -113,7 +113,7 @@ All of this is integrated into a web dashboard that automates **fine collection*
 ![Final Prototype](images/finalprototype.jpg)
 
 ### 🚗 Achivements
-![Achivements](images/achivement_sample.jpg)
+![Achivements](images/achivement.jpg)
 
 🏆 Achievements
 🥇 Winner - StartupTN Tiruppur Road Safety Ideathon
